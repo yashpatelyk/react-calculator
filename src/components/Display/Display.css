@@ -1,0 +1,13 @@
+.Display {
+  text-align: right;
+  background: #483739;
+  height: 100%;
+}
+
+.Display p {
+  margin-right: 16px;
+  color: white;
+  font-size: 48px;
+  margin-top: 0;
+  margin-bottom: 0
+}
